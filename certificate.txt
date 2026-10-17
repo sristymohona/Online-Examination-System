@@ -1,0 +1,7 @@
+===== CERTIFICATE =====
+Name: Mohona
+Exam: Math
+Score: 2/2
+Status: PASS
+-------------------------
+tanha|Math|1/1|PASS
