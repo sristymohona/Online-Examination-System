@@ -1,19 +1,7 @@
 
 # Online Examination System
 
-<p align="center">
-  A console-based examination management system built with C++ and Object-Oriented Programming.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B17-blue?style=for-the-badge&logo=cplusplus" alt="C++17"/>
-  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Storage-Text%20Files-orange?style=for-the-badge" alt="Text File Storage"/>
-</p>
-
-## Overview
-
-The **Smart Online Examination System** is a menu-driven C++ application designed to simplify basic examination management. It provides separate interfaces for administrators, teachers, and students.
+The **Online Examination System** is a menu-driven C++ application designed to simplify basic examination management. It provides separate interfaces for administrators, teachers, and students.
 
 Administrators can manage examinations, teachers can create exams and add multiple-choice questions, and students can participate in examinations and view their results.
 
