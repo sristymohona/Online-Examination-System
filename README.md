@@ -320,18 +320,19 @@ The application evaluates multiple-choice answers by comparing each submitted an
 The examination time limit is stored and displayed, but a countdown timer is not enforced in the current implementation.
 
 
-## Future Improvements
+## Concepts Demonstrated
 
-- [ ] Fix registration so existing accounts are preserved.
-- [ ] Add secure password hashing.
-- [ ] Replace text-file storage with a relational database.
-- [ ] Implement an actual examination countdown timer.
-- [ ] Persist student results and leaderboard data.
-- [ ] Add student and teacher profile management.
-- [ ] Generate examination reports and certificates.
-- [ ] Build a web-based interface.
-- [ ] Add automated testing and input validation.
-- [ ] Deploy the application to a server or cloud platform.
+- C++ classes and objects
+- Object-Oriented Programming
+- Inheritance and polymorphism
+- Abstraction and encapsulation
+- Vectors and STL algorithms
+- File input/output
+- Menu-driven program design
+- Multiple-choice answer evaluation
+- Sorting and leaderboard management
+
+
 
 ## Author
 
